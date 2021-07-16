@@ -45,7 +45,7 @@ Wenn alle Pakete mit der korrekten Version installiert wurden, lassen sich die e
 Ablauf ohne Transfer Learning:
 - Laden des Datensatzes
 - Erstellung der CNN Architektur
-- Training und Speicherung von 10 Modellen mit k-Fold Cross Validation
+- Training und Speicherung von 10 Modellen mit 10-Fold Cross Validation
 - Evaluierung der Modelle
 - Foolbox Angriff auf eines der 10 Modelle
 - Ausgabe der Ergebnisse in Jupyter Notebook und Excel
@@ -55,7 +55,7 @@ Ablauf mit Transfer Learning:
 - Erstellung der CNN Architektur
 - Trainings des Modells in einem Durchlauf und 50 Epochen
 - Evaluierung des Modells und Speicherung
-- Transfer Learning und Speicherung von 10 Modellen mit k-Fold Cross Validation mit Hilfe Basismodell
+- Transfer Learning und Speicherung von 10 Modellen mit 10-Fold Cross Validation mit Hilfe Basismodell
 - Evaluierung der 10 Modelle
 - Fine Tuning eines der 10 Modelle
 - Foolbox Angriff auf eines der 10 Modelle
