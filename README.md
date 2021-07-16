@@ -60,3 +60,6 @@ Ablauf mit Transfer Learning:
 - Fine Tuning eines der 10 Modelle
 - Foolbox Angriff auf eines der 10 Modelle
 - Ausgabe der Ergebnisse in Jupyter Notebook und Excel
+
+## Mitwirkung
+Pull requests sind willkommen. FÜr größere Änderungen bitte zuerst einen Issue erstellen um die Anpassungen zu diskutieren.
